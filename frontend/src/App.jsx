@@ -1,10 +1,10 @@
 import React from 'react'
-import TextEditor from './document creation/TextEditor.jsx'
+import Routing from './document creation/Routing.jsx'
 
 const App = () => {
   return (
     <div>
-      <TextEditor />
+      <Routing />
     </div>
   )
 }
